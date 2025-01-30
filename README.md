@@ -2,7 +2,7 @@
 
 [![Latest Version](https://img.shields.io/packagist/v/aswin/concurrent-laravel.svg)](https://packagist.org/packages/aswin/concurrent-laravel)  
 [![Laravel](https://img.shields.io/badge/Laravel-9%2B-blue)](https://laravel.com)  
-[![License](https://img.shields.io/github/license/aswin/concurrent-laravel)](LICENSE)  
+[![License](https://img.shields.io/github/license/aswinsasi/concurrent-laravel)](LICENSE)  
 
 ## 📖 Introduction  
 **Concurrent Laravel** is a Laravel package that enables you to execute multiple API requests **concurrently** using Guzzle, significantly reducing response times and improving performance.  
@@ -115,8 +115,8 @@ This package is open-source and licensed under the [MIT License](LICENSE).
 ---
 
 ## 📡 Contact & Support  
-- **GitHub Issues**: [https://github.com/aswin/concurrent-laravel/issues](https://github.com/aswin/concurrent-laravel/issues)  
-- **Email**: [aswin@example.com](mailto:aswin@example.com)  
+- **GitHub Issues**: [https://github.com/aswinsasi/concurrent-laravel/issues](https://github.com/aswinsasi/concurrent-laravel/issues)  
+- **Email**: [aswin@example.com](mailto:aswinfear@gmail.com)  
 
 🚀 **Speed up your Laravel API calls with Concurrent Laravel!** 🔥  
 ```
