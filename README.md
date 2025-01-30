@@ -116,7 +116,7 @@ This package is open-source and licensed under the [MIT License](LICENSE).
 
 ## 📡 Contact & Support  
 - **GitHub Issues**: [https://github.com/aswinsasi/concurrent-laravel/issues](https://github.com/aswinsasi/concurrent-laravel/issues)  
-- **Email**: [aswin@example.com](mailto:aswinfear@gmail.com)  
+- **Email**: [aswin@github.com](mailto:aswinfear01@gmail.com)  
 
 🚀 **Speed up your Laravel API calls with Concurrent Laravel!** 🔥  
 ```
