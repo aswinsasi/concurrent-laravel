@@ -1,0 +1,33 @@
+{
+    "name": "aswin/concurrent-laravel",
+    "description": "A Laravel package for concurrent API execution",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Vendor\\ConcurrentLaravel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "aswin"
+        }
+    ],
+    "require": {
+        "php": "^8.0",
+        "guzzlehttp/guzzle": "^7.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^11.5"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Vendor\\ConcurrentLaravel\\ConcurrentServiceProvider"
+            ],
+            "aliases": {
+                "ConcurrentExecutor": "Vendor\\ConcurrentLaravel\\Facades\\ConcurrentExecutor"
+            }
+        }
+    }
+}
