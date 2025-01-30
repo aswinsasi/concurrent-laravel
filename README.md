@@ -1,8 +1,3 @@
----
-
-### **📌 README.md for Concurrent Laravel Package**  
-
-```md
 # 🚀 Concurrent Laravel - Execute Multiple API Requests in Parallel  
 
 [![Latest Version](https://img.shields.io/packagist/v/aswin/concurrent-laravel.svg)](https://packagist.org/packages/aswin/concurrent-laravel)  
@@ -10,10 +5,10 @@
 [![License](https://img.shields.io/github/license/aswin/concurrent-laravel)](LICENSE)  
 
 ## 📖 Introduction  
-**Concurrent Laravel** is a Laravel package that enables you to execute multiple API requests **concurrently** using Guzzle, reducing response times and improving performance.  
+**Concurrent Laravel** is a Laravel package that enables you to execute multiple API requests **concurrently** using Guzzle, significantly reducing response times and improving performance.  
 
 ### **🔹 Features**  
-✅ **Concurrent API Execution** – Run multiple API requests in parallel.  
+✅ **Concurrent API Execution** –
 ✅ **Supports GET & POST Methods** – Pass request data for POST requests.  
 ✅ **Handles Large API Requests** – Process 100+ API calls efficiently.  
 ✅ **Error Handling** – Returns failed responses with error messages.  
